@@ -1,0 +1,12 @@
+/*
+
+!/.gitignore
+!/.gitconfig
+!/.vimrc
+
+!/.config
+/.config/*
+
+!/.config/ranger
+!/.config/gtk-3.0
+!.config/fish
